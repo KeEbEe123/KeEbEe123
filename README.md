@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello GitHub!<br><br>I'm Keertan, a passionate developer who's still finding his path. Currently <br>interested in a lot of technologies and still unclear on what to pursue, I'm <br>doing a lot of things right now. Just started learning React and Flutter and <br>also dabbling around with TensorFlow! <br>I would really appreciate y'all connecting with me and guiding me through this <br>vast multiverse.<br>To infinity and beyond!
+Hello GitHub!<br><br>I'm Keertan, a passionate developer who's still finding his path. Currently <br>interested in a lot of technologies and still unclear on what to pursue, I'm <br>doing a lot of things right now. Just started learning React and Flutter and <br>also dabbling around with TensorFlow!
 
 
 ## 🌐 Socials:
